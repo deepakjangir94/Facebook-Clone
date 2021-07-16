@@ -1,4 +1,10 @@
 # Facebook-Clone
+
+<img width="960" alt="login" src="https://user-images.githubusercontent.com/80396196/125927543-e302fca6-98ef-4efe-83ba-77237c80a101.png">
+
+<img width="960" alt="app" src="https://user-images.githubusercontent.com/80396196/125928271-77359665-5c69-4b0e-bf79-88faa954be6c.png">
+
+
 Built the core functionality (uploading images and normals texts) of original facebook application using reactJS, Material-UI and google
 firebase backed application
 
@@ -18,3 +24,11 @@ Used Firebase - Firestore to create a realtime database
  - Storage to store and sync the data
  - Hosting to allow fast and secure hosting for static and dynamic content
  - Google Authentication for full login in the application
+
+
+
+Steps:
+1. Download node.js in your computer.
+2. write "npx create-react-app my-app" command in terminal and enter.
+3. write "cd my-app" command in terminal and enter.
+4. write "npm start" command in terminal and enter.
